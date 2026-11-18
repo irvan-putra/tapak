@@ -11,4 +11,4 @@ Sources checked18 November2026:
 - EdgePrompt: https://doi.org/10.1145/3701716.3717810
 - GitHub: https://github.com/irvan-putra
 
-Career/education dates follow the current public LinkedIn profile. No original CV download is hosted in this repository. No private conversations, personal plans, account data, contact list or live status tracking is included. The portrait is re-encoded without original metadata. Pages serves `docs/`.
+Career/education dates follow the current public LinkedIn profile. Career responsibilities, community periods, skills and CGPA were also checked against the CV supplied by the owner on18 November2026. The original PDF remains private because it includes contact fields. No original CV download is hosted in this repository. No private conversations, personal plans, account data, contact list or live status tracking is included. The portrait is re-encoded without original metadata. Pages serves `docs/`.
