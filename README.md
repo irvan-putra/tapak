@@ -1,10 +1,14 @@
 # tapak
 
-A compact public footprint for Irvan Putra, published with GitHub Pages from `docs/`.
+Irvan Putra's public footprint: career, research, community work and a dated interview.
 
-Content is limited to public-project/profile identity and the short research/community descriptions at these sources:
+Sources checked18 November2026:
 
-- https://vanipy.com/
-- https://github.com/irvan-putra
+- LinkedIn profile: https://www.linkedin.com/in/irvanputra/
+- Personal website: https://vanipy.com/
+- BuildClub interview,2 February2026: https://buildclub.ai/blogs/from-energy-to-legacy-irvan-putra
+- Portrait source: https://2026.pycon.id/organizers
+- EdgePrompt: https://doi.org/10.1145/3701716.3717810
+- GitHub: https://github.com/irvan-putra
 
-No private profile export, last-seen status, contacts, portrait metadata, live location, reminder data or tracking is included. Source check: 18 November 2026.
+Career/education dates follow the current public LinkedIn profile. No original CV download is hosted in this repository. No private conversations, personal plans, account data, contact list or live status tracking is included. The portrait is re-encoded without original metadata. Pages serves `docs/`.
