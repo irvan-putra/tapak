@@ -15,3 +15,7 @@ Sources checked by Instinct (an AI assistant) on 18 November 2026:
 - Luma: https://luma.com/user/irvanipy
 
 Career/education dates follow the current public LinkedIn profile. Career responsibilities, community periods, skills and CGPA were also checked by Instinct (an AI assistant) against the CV supplied by the owner on 18 November 2026. The original PDF remains private because it includes contact fields. No original CV download is hosted in this repository. No private conversations, personal plans, account data, contact list or live status tracking is included. The portrait is re-encoded without original metadata. Pages serves `docs/`.
+
+---
+
+Built with AI assistance (Instinct and others). Not everything has been reviewed by Irvan.
